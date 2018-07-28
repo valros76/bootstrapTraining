@@ -19,11 +19,9 @@
                 <h2 class="col-lg-6">Premier test</h2>
                 <p class="col-lg-6">Article pour premier test.</p>
                 <img src="img/article1.png" alt="imageArticle1" class="col-lg-6"/>
-            </article>
-            <aside class="row">
-                <h2 class="col-lg-6">Auteur : Valros76</h2>
+                <h3 class="col-lg-6">Auteur : Valros76</h3>
                 <p class="col-lg-6">Le 28/07/2018</p>
-            </aside>
+            </article>
         </section>
     </div>
 </body>
