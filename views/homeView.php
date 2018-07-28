@@ -12,7 +12,7 @@
     <div class="container">
         <header id="head" class="row">
             <h1 class="col-lg-12">Home</h1>
-            <hr/>
+            <p class="col-lg-12">Style blog</p>
         </header>
         <div class="row">
             <nav class="col-lg-2">
