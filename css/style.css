@@ -13,3 +13,13 @@ article img{
     width:250px;
     height:250px;
 }
+
+ul{
+    list-style:none;
+    padding-left:0;
+}
+
+a{
+    color:black;
+    text-decoration:underline;
+}
