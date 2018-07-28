@@ -1,10 +1,13 @@
 body{
     text-align:center;
     word-wrap:break-word;
+    background-color:black;
 }
 .container{
     border:1px solid black;
     padding:5px;
+    margin:5px auto;
+    background:linear-gradient(to top, rgb(200,200,200) 80%, rgb(180,180,180));
 }
 .row{
     margin-top:20px;
@@ -22,4 +25,8 @@ ul{
 a{
     color:black;
     text-decoration:underline;
+}
+
+section{
+    border:5px solid black;
 }

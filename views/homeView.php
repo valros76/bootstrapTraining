@@ -23,7 +23,8 @@
                     </ul>
                 </fieldset>
             </nav>
-            <section class="col-lg-10">
+
+            <section class="col-lg-offset-1 col-lg-9">
                 <article class="row">
                     <h2 class="col-lg-6">Premier test</h2>
                     <p class="col-lg-6">Article pour premier test.</p>
@@ -38,6 +39,7 @@
                     </fieldset>
                 </aside>
             </section>
+            
         </div>
 
         <div class="row">
