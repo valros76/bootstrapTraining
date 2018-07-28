@@ -16,9 +16,14 @@
 
         <section class="container">
             <article class="row">
-                <h2 class="col-lg-4">Premier test</h2>
-                <p class="col-lg-8">Article pour premier test.</p>
+                <h2 class="col-lg-6">Premier test</h2>
+                <p class="col-lg-6">Article pour premier test.</p>
+                <img src="img/article1.png" alt="imageArticle1" class="col-lg-6"/>
             </article>
+            <aside class="row">
+                <h2 class="col-lg-6">Auteur : Valros76</h2>
+                <p class="col-lg-6">Le 28/07/2018</p>
+            </aside>
         </section>
     </div>
 </body>
