@@ -71,6 +71,10 @@ form{
     padding:20px;
 }
 
+.help-block{
+    color:rgba(50,50,50,0.4)
+}
+
 
 @media (max-width:580px){
     img{
