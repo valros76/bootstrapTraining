@@ -9,7 +9,7 @@
     <title>Home - Bootstrap training</title>
 </head>
 <body>
-    <div id="containerContent">
+    <div class="container">
         <header id="head">
             <h1>Home</h1>
         </header>
@@ -22,6 +22,12 @@
                 <h3 class="col-lg-6">Auteur : Valros76</h3>
                 <p class="col-lg-6">Le 28/07/2018</p>
             </article>
+            <aside class="container">
+                <fieldset class="row">
+                    <legend>Commentaires</legend>
+                    <p class="col-lg-12">Commentaires...</p>
+                </fieldset>
+            </aside>
         </section>
     </div>
 </body>
