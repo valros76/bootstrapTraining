@@ -9,13 +9,13 @@
     <title>Home - Bootstrap training</title>
 </head>
 <body>
-    <div class="container">
+    <div class="container fullContent">
         <header id="head" class="row">
             <h1 class="col-lg-12">Home</h1>
             <p class="col-lg-12">Style blog</p>
         </header>
         <div class="row">
-            <nav class="col-lg-2">
+            <nav class="col-lg-12">
                 <fieldset class="container">
                 <legend>Menu</legend>
                     <ul>
@@ -24,20 +24,19 @@
                 </fieldset>
             </nav>
 
-            <section class="col-lg-offset-1 col-lg-9">
-                <article class="row">
-                    <h2 class="col-lg-6">Premier test</h2>
-                    <p class="col-lg-6">Article pour premier test.</p>
-                    <img src="img/article1.png" alt="imageArticle1" class="col-lg-6"/>
-                    <h3 class="col-lg-6">Auteur : Valros76</h3>
-                    <p class="col-lg-6">Le 28/07/2018</p>
-                </article>
-                <aside class="container">
-                    <fieldset class="row">
-                        <legend>Commentaires</legend>
-                        <p class="col-lg-12">Commentaires...</p>
-                    </fieldset>
-                </aside>
+            <section class="row">
+                <div class="col-lg-2"><img src="img/t1.jpg" alt="Tigre"></div>
+                <div class="col-lg-2"><img src="img/t2.jpg" alt="Tigre"></div>
+                <div class="col-lg-2"><img src="img/t3.jpg" alt="Tigre"></div>
+                <div class="col-lg-2"><img src="img/t4.jpg" alt="Tigre"></div>
+                <div class="col-lg-2"><img src="img/t5.jpg" alt="Tigre"></div>
+                <div class="col-lg-2"><img src="img/t6.jpg" alt="Tigre"></div>
+                <div class="col-lg-2"><img src="img/t7.jpg" alt="Tigre"></div>
+                <div class="col-lg-2"><img src="img/t8.jpg" alt="Tigre"></div>
+                <div class="col-lg-2"><img src="img/t9.jpg" alt="Tigre"></div>
+                <div class="col-lg-2"><img src="img/t10.jpg" alt="Tigre"></div>
+                <div class="col-lg-2"><img src="img/t11.jpg" alt="Tigre"></div>
+                <div class="col-lg-2"><img src="img/t12.jpg" alt="Tigre"></div>
             </section>
             
         </div>
