@@ -67,3 +67,9 @@ a{
 }
 
 
+@media (max-width:580px){
+    img{
+        width:auto;
+        height:auto;
+    }
+}
