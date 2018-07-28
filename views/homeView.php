@@ -9,13 +9,16 @@
     <title>Home - Bootstrap training</title>
 </head>
 <body>
-    <div id="container">
+    <div id="containerContent">
         <header id="head">
             <h1>Home</h1>
         </header>
 
-        <section id="content">
-            <p>Content...</p>
+        <section class="container">
+            <article class="row">
+                <h2 class="col-lg-4">Premier test</h2>
+                <p class="col-lg-8">Article pour premier test.</p>
+            </article>
         </section>
     </div>
 </body>
