@@ -66,6 +66,12 @@ a{
     text-decoration:underline;
 }
 
+form{
+    background-color:rgba(100,100,100,0.4);
+    padding:10px;
+    margin:auto;
+}
+
 
 @media (max-width:580px){
     img{
